@@ -1,0 +1,33 @@
+p {
+  color: #D89216;
+  font-size: 40px;
+  text-align: center;
+}
+
+.chess {
+  background: maroon;
+  color: yellow;
+  border: 1px solid black;
+}
+
+.mastersdegree {
+  background: lightblue;
+  border: 1px solid black;
+}
+
+.historymemes {
+  background: purple;
+  border: 1px solid black;
+}
+
+body {
+  background-color: aquamarine;
+}
+
+h1 {
+  color: crimson;
+  text-align: center;
+  padding: 2px;
+  border-bottom: 5px solid red;
+  text-shadow: 4px 4px 4px blue;
+}
